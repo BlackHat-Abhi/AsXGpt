@@ -28,7 +28,7 @@ This Tool Allowed To Openai ChatGpt In Termux
 
 `git clone https://github.com/BlackHat-Abhi/AsXGpt.git `
 
-`cd AsXGp `
+`cd AsXGpt `
 
 `python asxgpt.py `
 
